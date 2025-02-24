@@ -1,0 +1,126 @@
+---
+title: "People"
+toc: false
+format: html
+editor: 
+  mode: source
+---
+
+[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+
+### Current Members
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/kd_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;"></td>
+    <td>
+      <strong><a href="https://span-port.rutgers.edu/people/faculty/faculty-directory/1013-kendra-dickinson">Kendra V. Dickinson</a></strong><br>
+      <span style= "color: #83C5BE"><i>Principal Investigator</span></i><br>
+      Sociolinguistics, Language Variation and Change, Sociolinguistic Perception<br>
+      Brazilian Portuguese, English, Spanish<br>
+      <a href="mailto:kendra.dickinson@rutgers.edu">kendra.dickinson@rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/mfr_photo.png" style="width: 155px; height: 165px; border-radius: 50%;"></td>
+    <td>
+      <strong><a href="https://www.mfeliuribas.com">Meritxell Feliu-Ribas</a></strong><br>
+      <span style= "color: #83C5BE"><i>PhD Student, Lab Manager</span></i><br>
+      Language Variation and Change, Bilingualism, Morphosyntax, Bayesian Data Analysis<br>
+      Catalan, English, German, Russian, Spanish<br>
+      <a href="mailto:mfeliuribas@spanport.rutgers.edu">mfeliuribas@spanport.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/ajl_photo.png" style="width: 150px; height: 160px; border-radius: 50%;"></td>
+    <td>
+      <strong>Alejandro A. Jaume-Losa</strong><br>
+      <span style= "color: #83C5BE"><i>PhD Student</span></i><br>
+      Language Attitudes, Language Uses, Language Policy<br>
+      Catalan, English, Spanish<br>
+      <a href="mailto:ajaumelosa@spanport.rutgers.edu">ajaumelosa@spanport.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/ybb_photo.png" style="width: 150px; height: 160px; border-radius: 50%;"></td>
+    <td>
+      <strong>Yhosep Fernando Barba Blanco</strong><br>
+      <span style= "color: #83C5BE"><i>PhD Student</span></i><br>
+      <span style="white-space: nowrap;">Queer Linguistics, Raciolinguistics, Language Attitudes, Linguistic Accommodation, (Critical) Discourse Analysis</span><br>
+      English, Spanish<br>
+      <a href="mailto:y.barba@rutgers.edu">y.barba@rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/ef_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;"></td>
+    <td>
+      <strong>Erin Foley</strong><br>
+      <span style= "color: #83C5BE"><i>Undergraduate Research Assistant</span></i><br>
+      English, Spanish<br>
+      <a href="mailto:eaf155@scarletmail.rutgers.edu">eaf155@scarletmail.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+    <img src="assets/photos/sk_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%;"></td>
+    <td>
+      <strong>Samantha Kozlow</strong><br>
+      <span style= "color: #83C5BE"><i>Undergraduate Research Assistant</span></i><br>
+      English, Spanish<br>
+      <a href="mailto:sek167@scarletmail.rutgers.edu">sek167@scarletmail.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+
+<br>
+
+### Former Members
+
+* Gabriella Constantin-Dureci, PhD
+
+<br>
+
+### Collaborators
+
+* [Dr. Scott Schwenter](https://sppo.osu.edu/people/schwenter.1), The Ohio State University
+
+* [Mark Hoff](https://www.researchgate.net/profile/Mark-Hoff), Queens College CUNY
+
+* [Ezequiel Durand-López](https://charleston.edu/spanish/faculty/durand-lopez-ezequiel.php), College of Charleston	
+
+* [Nicole Houser](https://nbdiversity.rutgers.edu/people/nicole-m-houser), Rutgers University	
+
+* [Luana Lamberti](https://language.iastate.edu/directory/luana-lamberti/), Iowa State University	
+
+

@@ -1,0 +1,42 @@
+---
+title: "Lab"
+toc: false
+editor: 
+  mode: source
+---
+
+[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+
+### Research
+
+SLANG conducts research on sociolinguistics, language variation, and language change in both monolingual and multilingual populations. We focus on monolingual and bilingual language acquisition and use, using variationist methods, as well as language attitudes and ideologies among multilingual speakers. 
+
+Do you want to find more about our research? Click [here](projects.html)!
+
+<br>
+
+### Location
+
+We are located in 1 Spring St., Room 239 (2nd floor), in downtown New Brunswick, NJ 08901. We are just 3 minutes away from the train station!
+
+```{r, map, echo=FALSE}
+library(leaflet)
+library(leaflegend)
+
+
+map_pin_icon <- makeAwesomeIcon(
+    icon = 'map-pin',
+    library = 'fa',
+    iconColor = '#ffffff',
+    markerColor = 'cadetblue')
+
+leaflet() %>%
+  addTiles() %>%
+  setView(-74.44490941730666, 40.49548177313065, zoom = 17) %>%
+  addAwesomeMarkers(lng = -74.44490941730666, lat = 40.49548177313065, 
+             label = "You can find SLANG here!",
+             labelOptions = labelOptions(noHide = TRUE, style = 
+                                           list("color" = "#006d77",
+                                                "font-size" = "15px")),
+              icon = map_pin_icon)
+```

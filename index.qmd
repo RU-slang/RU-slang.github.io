@@ -1,0 +1,27 @@
+---
+title: "Welcome to SlAnG!"
+toc: false
+about: 
+  template: jolla
+editor: 
+  mode: source
+---
+
+<span style= "color: #83C5BE"><td>What is our mission?</span></td>
+<p style= "text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG Lab, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
+
+<br>
+
+<span style= "color: #83C5BE"><td>What are our goals?</span></td> 
+<ul>
+<li><p style= "text-align:left;"> Conduct collaborative research investigating the linguistic, social, and cognitive underpinnings of language variation and change. </p></li>
+
+<li><p style= "text-align:left;"> Create a corpus of Spanish as it is spoken in central New Jersey. </p></li>
+
+<li><p style= "text-align:left;"> Raise awareness about language diversity and challenge linguistic discrimination through education and outreach. </p></li>
+
+<li><p style= "text-align:left;"> Support undergraduate and graduate students through mentorship in ethical, data-driven linguistic research. </p></li>
+
+<li><p style= "text-align:left;"> Build a vibrant community of scholars and students interested in the intersections of language and society at Rutgers University and beyond. </p></li>
+</ul>
+

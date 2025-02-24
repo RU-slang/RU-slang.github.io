@@ -1,0 +1,32 @@
+---
+title: "An Overview of 2024"
+description: "What happened in 2024 in our lab? Let's recap!"
+author:
+  - name: Meritxell Feliu-Ribas
+date: 02-18-2025
+categories: [conferences, publications, arestys]
+image: random-image.jpg
+draft: false 
+toc: false
+editor: 
+  mode: source
+---
+
+As we start the Spring 2025 semester and another exciting year, we look back at the milestones and achievements that shaped our lab in 2024. From welcoming new members to presenting at top conferences, it has been a year of growth and discovery!
+
+
+## Highlights from 2024
+- Our lab turned one year old, and we officially renamed it SlAnG, Sociolinguistic Analysis Group!
+- We welcomed two undergraduate research assistants: Erin Foley and Samantha Kozlow.
+- Gabriela Constantin-Dureci graduated and accepted a position as Assistant Director of Online and Digital Pedagogy at Drexel University.
+- We presented our research at major conferences in our field, including:
+    - 11th Workshop on Spanish Sociolinguistics (Buffalo, NY),
+    - Hispanic Linguistics Symposium (Omaha, NE)
+    - 52nd Annual Meeting of New Ways of Analyzing Variation (Miami, FL)
+- We had <span style="color: #e29578;"> X </span> papers published or accepted (stay tuned for more details or check Publications and Presentations under [Projects](/projects.html)). </li>
+- We launched the Spanish in Central New Jersey Corpus, interviewing our first participants.
+- We collected data from 200+ participants through sociolinguistic interviews and experiments for our ongoing projects.
+
+
+## Looking Ahead
+As we move into 2025, we are excited to continue growing, researching, and sharing our work. Thank you to everyone who has contributed to SlAnG in 2024!

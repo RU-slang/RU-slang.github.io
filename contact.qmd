@@ -1,0 +1,14 @@
+---
+title: "Contact"
+toc: false
+editor: 
+  mode: source
+---
+
+[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+
+*Are you interested in working in the lab and studying language acquisition, language variation, and/or language change with us?* <br>
+Reach out to Professor Dickinson at [kendra.dickinson@rutgers.edu](mailto:kendra.dickinson@rutgers.edu) or to the SlAnG Manager, Meritxell Feliu-Ribas, at [mfeliuribas@spanport.rutgers.edu](mailto:mfeliuribas@spanport.rutgers.edu).
+
+*Do you speak Spanish and are interested in participating in our research?* <br>
+Contact us at [spanishinnj@spanport.rutgers.edu](mailto:spanishinnj@spanport.rutgers.edu) to participate in a 1-hour interview in downtown New Brunswick, NJ, or in an online experiment. You will be compensated for your time!

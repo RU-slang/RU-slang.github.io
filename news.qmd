@@ -1,0 +1,17 @@
+---
+title: "News"
+toc: false
+editor: 
+  mode: source
+listing: 
+  contents: news
+  type: grid 
+  sort: "date desc" 
+  categories: true 
+---
+
+[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+
+Do you want to know what is going on in SlAnG? Check the posts below!
+
+<!--- Check this website for a detailed step-by-step guide on how to set up a blog https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ --->

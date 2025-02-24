@@ -1,0 +1,11 @@
+---
+title: "Oh no!"
+editor: 
+  mode: source
+---
+
+We couldn't find the page you are looking for. As soon as we come back from catching butterflies, we will fix it! 
+
+<br>
+
+![](./assets/photos/pokemon_butterfly.jpg){fig-align="center" width=50%}
