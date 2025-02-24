@@ -1,6 +1,7 @@
 ---
 title: "Welcome to SlAnG!"
 toc: false
+page-layout: full
 about: 
   template: jolla
 editor: 
