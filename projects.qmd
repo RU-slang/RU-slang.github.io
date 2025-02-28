@@ -5,7 +5,7 @@ editor:
   mode: source
 ---
 
-:::panel-tabset
+::: panel-tabset
 
 ### Current Projects
 **Spanish in Central New Jersey** <br> 
@@ -78,3 +78,5 @@ Attitudes towards a framework for the spelling of Andalusian Spanish. *11th Inte
 Dickinson, K., Schwenter, S., and McLean, C. (April 2024). Speaker Evaluations of Indirect Object (Non-)Doubling in Spanish: An Experimental Approach. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
 
 Dickinson, K., and Durand-López, E. (April 2024). Inclusive Morphology in Spanish: Processing and Learnability. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
+
+:::
