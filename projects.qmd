@@ -5,7 +5,7 @@ editor:
   mode: source
 ---
 
-::: panel-tabset
+:::panel-tabset
 
 ### Current Projects
 **Spanish in Central New Jersey** <br> 

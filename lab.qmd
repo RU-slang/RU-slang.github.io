@@ -11,7 +11,7 @@ editor:
 
 SLANG conducts research on sociolinguistics, language variation, and language change in both monolingual and multilingual populations. We focus on monolingual and bilingual language acquisition and use, using variationist methods, as well as language attitudes and ideologies among multilingual speakers. 
 
-Do you want to find more about our research? Click [here](projects.html)!
+Do you want to find more about our research? Click [here](projects.html)
 
 <br>
 
