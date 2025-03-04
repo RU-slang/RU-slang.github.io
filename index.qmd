@@ -7,13 +7,16 @@ about:
 editor: 
   mode: source
 ---
-
-<span style= "color: #83C5BE"><td>What is our mission?</span></td>
-<p style= "text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG Lab, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
+<img src="assets/photos/lab_group.jpg" style="width: 500px; height: auto;">
 
 <br>
 
-<span style= "color: #83C5BE"><td>What are our goals?</span></td> 
+<span style="color: #83C5BE; font-weight: bold;">What is our mission?</span>
+<p style="text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
+
+<br>
+
+<span style= "color: #83C5BE; font-weight: bold;"><td>What are our goals?</span></td> 
 <ul>
 <li><p style= "text-align:left;"> Conduct collaborative research investigating the linguistic, social, and cognitive underpinnings of language variation and change. </p></li>
 
@@ -25,4 +28,3 @@ editor:
 
 <li><p style= "text-align:left;"> Build a vibrant community of scholars and students interested in the intersections of language and society at Rutgers University and beyond. </p></li>
 </ul>
-

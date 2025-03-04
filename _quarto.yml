@@ -10,6 +10,8 @@ website:
     left:
       - href: index.qmd
         text: SlAnG
+      - href: why_slang.qmd
+        text: Why SlAnG?
       - href: lab.qmd
         text: Lab
       - href: people.qmd
