@@ -11,7 +11,7 @@ editor:
 
 <br>
 
-<span style="color: #83C5BE; font-weight: bold;">What is our mission?</span>
+<span style="color: #83C5BE; font-weight: bold;"> What is our mission?</span>
 <p style="text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
 
 <br>
