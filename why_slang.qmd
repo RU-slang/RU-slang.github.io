@@ -6,9 +6,10 @@ about:
   template: jolla
 editor: 
   mode: source
+format:
+  html:
+    css: styles.css
 ---
-
-<div style="text-align: justify;">
 
 Aside from being an intriguing acronym for our longer name, the **S**ocio**l**inguistic **An**alysis **G**roup, *slang* is a word that resonates both in everyday life and in the field of sociolinguistics. When people hear the word *slang*, they often associate it with language forms that are ‘incorrect’, ‘informal’, or improper – something associated with youth that falls outside of the umbrella of ‘good’ language. We reject this idea. In our lab, we are committed to the analysis of all kinds of language forms, regardless of their level of social acceptability. We are committed to analyzing how all kinds of language, formal and informal, standard and non-standard, are used, understood, and evaluated in society, and what variable language patterns reveal about language itself.
 
@@ -16,14 +17,6 @@ Some have dismissed this kind of research as mere ‘butterfly-collecting’. Th
 
 By embracing this perspective, we challenge outdated notions of linguistic correctness and instead highlight the systematic nature of language variation. Just as every butterfly provides insight into the larger ecosystem, every instance of linguistic variation—whether it be slang, formal speech, dialect changes, or codeswitching – offers a window into the very nature of language.
 
-</div>
-
 <br>
 
-<div style="text-align: center;">
-  <img src="assets/photos/amol.jpg" style="width: 800px; height: auto;" />
-</div>
-
-
-
-
+![Amol](assets/photos/amol.jpg)

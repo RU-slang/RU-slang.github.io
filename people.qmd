@@ -6,7 +6,7 @@ editor:
   mode: source
 ---
 
-[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+[Sociolinguistic Analysis Group]{style="color: #83c5be;"}
 
 ### Current Members
 
@@ -107,7 +107,7 @@ editor:
 
 ### Former Members
 
-* Gabriella Constantin-Dureci, PhD
+* [Gabriella Constantin-Dureci, PhD](https://drexel.edu/teaching-and-learning/about/team-members/constantin-dureci-gabriela)
 
 <br>
 

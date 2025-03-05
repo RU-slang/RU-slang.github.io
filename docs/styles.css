@@ -46,3 +46,45 @@ footer {
   padding: 10px;
   text-align: center;
 }
+
+/* Make sure the body has good readable padding */
+body {
+  padding: 20px;
+  font-size: 1.1rem;
+  line-height: 1.7;
+  word-wrap: break-word;
+}
+
+/* Center the page and control width */
+main {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* Make paragraphs justify nicely */
+p {
+  text-align: justify;
+}
+
+/* Make headings wrap and space well */
+h1, h2, h3, h4, h5, h6 {
+  word-break: break-word;
+  line-height: 1.3;
+}
+
+/* Images responsive */
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 15px;
+  display: block;
+  margin: 20px auto;
+}
+
+/* Reduce font size a bit on small screens */
+@media (max-width: 600px) {
+  body {
+    font-size: 1rem;
+    padding: 15px;
+  }
+}
