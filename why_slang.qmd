@@ -1,7 +1,7 @@
 ---
 title: "Why SlAnG?"
 toc: false
-page-layout: full
+page-layout: article
 about: 
   template: jolla
 editor: 
@@ -17,4 +17,13 @@ Some have dismissed this kind of research as mere ‘butterfly-collecting’. Th
 By embracing this perspective, we challenge outdated notions of linguistic correctness and instead highlight the systematic nature of language variation. Just as every butterfly provides insight into the larger ecosystem, every instance of linguistic variation—whether it be slang, formal speech, dialect changes, or codeswitching – offers a window into the very nature of language.
 
 </div>
+
+<br>
+
+<div style="text-align: center;">
+  <img src="assets/photos/amol.jpg" style="width: 800px; height: auto;" />
+</div>
+
+
+
 

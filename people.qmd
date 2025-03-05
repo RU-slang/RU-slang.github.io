@@ -113,7 +113,7 @@ editor:
 
 ### Collaborators
 
-* [Dr. Scott Schwenter](https://sppo.osu.edu/people/schwenter.1), The Ohio State University
+* [Scott Schwenter](https://sppo.osu.edu/people/schwenter.1), The Ohio State University
 
 * [Mark Hoff](https://www.researchgate.net/profile/Mark-Hoff), Queens College CUNY
 

@@ -5,24 +5,25 @@ project:
     - "*.qmd"
 
 website:
-  title: "SlAnG"
+  title: " "
   navbar:
     left:
       - href: index.qmd
-        text: SlAnG
+        text: "Home"
       - href: why_slang.qmd
-        text: Why SlAnG?
+        text: "Why SlAnG?"
       - href: lab.qmd
-        text: Lab
+        text: "Lab"
       - href: people.qmd
-        text: People
+        text: "People"
       - href: projects.qmd
-        text: Projects
+        text: "Projects"
       - href: contact.qmd
-        text: Contact
+        text: "Contact"
       - href: news.qmd
-        text: News
+        text: "News"
   search: false
+
 format:
   html:
     theme: cosmo
@@ -30,4 +31,3 @@ format:
     toc: true
 
 editor: visual
-

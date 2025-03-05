@@ -1,22 +1,23 @@
 ---
-title: "Welcome to SlAnG!"
+title: "Welcome to the Rutgers University <br>  Sociolinguistic Analysis Group!"
 toc: false
-page-layout: full
+page-layout: article
 about: 
   template: jolla
 editor: 
   mode: source
 ---
-<img src="assets/photos/lab_group.jpg" style="width: 500px; height: auto;">
+<img src="assets/photos/lab_group.jpg" style="width: 500px; height: auto; border-radius: 15px;" />
+
 
 <br>
 
-<span style="color: #83C5BE; font-weight: bold;"> What is our mission?</span>
+<span style="color: #e29578; font-weight: bold;"> What is our mission?</span>
 <p style="text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
 
 <br>
 
-<span style= "color: #83C5BE; font-weight: bold;"><td>What are our goals?</span></td> 
+<span style= "color: #e29578; font-weight: bold;"><td>What are our goals?</span></td> 
 <ul>
 <li><p style= "text-align:left;"> Conduct collaborative research investigating the linguistic, social, and cognitive underpinnings of language variation and change. </p></li>
 
