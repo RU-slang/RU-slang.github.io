@@ -3,8 +3,8 @@
   --primary-color: #006d77;
   --secondary-color: #e29578;
   --background-color: #83c5be;
-  --accent-color: #ffddd2;
-  --highlight-color: #edf6f9;
+  --accent-color: #edf6f9;
+  --highlight-color: #83c5be;
 }
 
 /* Apply colors to background page and text */
@@ -55,11 +55,6 @@ body {
   word-wrap: break-word;
 }
 
-/* Center the page and control width */
-main {
-  max-width: 900px;
-  margin: 0 auto;
-}
 
 /* Make paragraphs justify nicely */
 p {
@@ -118,3 +113,29 @@ img {
   font-size: 1.2rem;
   flex-shrink: 0;
 }
+
+<style>
+/* Change text color of inactive tabs */
+.nav-tabs li a {
+    color: #e29578 !important;
+}
+
+<style>
+/* Change text color for non-active tabs in Quarto/RMarkdown tabsets */
+.tabset .nav-tabs > li:not(.active) > a {
+    color: #e29578 !important;
+}
+
+/* Ensure active tab remains black */
+.tabset .nav-tabs > li.active > a {
+    color: black !important;
+    font-weight: bold;
+}
+</style>
+
+table {
+  margin-left: 0 !important;
+  width: 100% !important;
+}
+
+
