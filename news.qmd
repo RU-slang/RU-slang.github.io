@@ -5,10 +5,12 @@ editor:
   mode: source
 listing: 
   contents: news
-  type: grid 
-  sort: "date desc" 
-  categories: true 
+  type: grid    
+  sort: "date desc"
+  categories: true
 ---
+
+
 
 [SocioLinguistic Analysis Group]{style="color: #83c5be;"}
 
