@@ -5,7 +5,7 @@ author:
   - name: Kendra V. Dickinson
 date: 03-25-2025
 categories: [research, graduate students, in the news]
-image: ajl_photo.png
+image: ajl_news2.jpeg
 draft: false 
 toc: false
 editor: 
