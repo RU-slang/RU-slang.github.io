@@ -1,0 +1,31 @@
+---
+title: "Students in the News!"
+description: "Alejandro Jaume Losa's research appears in *Última Hora*"
+author:
+  - name: Kendra V. Dickinson
+date: 03-25-2025
+categories: [research, graduate students, in the news]
+image: ajl_photo.png
+draft: false 
+toc: false
+editor: 
+  mode: source
+---
+
+<img src="alejandro_news.png" style="width: 800px; height: auto; border-radius: 15px;" />
+
+<br>
+
+<figure style="float: left; margin-right: 25px;">
+    <img src="ajl_news2.jpeg" style="width: 300px; height: auto; border-radius: 25px;">
+</figure>
+
+
+Alejandro has been hard at work on his dissertation research on attitudes towards and use of Catalán and Spanish in Palma de Mallorca. An article recently featured in the Mallorcan newspaper *Última Hora* invites residents to participate in surveys, experiments, and interviews related to his project, and highlights the need for representation of all sectors of the population.
+
+In addition to aiding in participant recruitment, this article brings visibility to sociolinguistic research and showcases its potential for broader impact! Way to go, Alejandro!
+
+Read full the article [here](https://www.ultimahora.es/noticias/local/2025/02/22/2331475/universidad-eeuu-busca-palma-hablantes-bilingues-para-investigacion.html).
+
+
+
