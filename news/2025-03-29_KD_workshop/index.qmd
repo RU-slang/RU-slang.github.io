@@ -1,0 +1,33 @@
+---
+title: "Spreading the word"
+description: "Dr. Kendra Dickinson offers corpus methods workshop at Ohio State"
+author:
+  - name: Kendra V. Dickinson
+date: 03-29-2025
+categories: [research, conferences]
+image: OSUCHiLL4.jpg
+showImage: false
+draft: false 
+toc: false
+editor: 
+  mode: source
+format: html
+---
+
+<figure style="margin: 0 0 25px 0;">
+  <img src="OSUCHiLL_comb.jpg" style="width: 800px; height: auto; border-radius: 0;">
+</figure>
+
+<p>
+  Dr. Kendra Dickinson and colleague <a href="https://www.qc.cuny.edu/academics/hll/mark-hoff/">Dr. Mark Hoff</a> (Queens College CUNY) were invited to give a workshop at the 
+  <a href="https://sppo.osu.edu/research/osu-congress-on-hispanic-lusophone-linguistics-symposium">28th Annual Ohio State University Congress on Hispanic and Lusophone Linguistics (OSUCHiLL)</a> on March 21st, 2025.
+  Their presentation, 
+  <a href="https://oia.osu.edu/events/methods-hispanic-and-lusophone-corpus-linguistics">
+    <em>Corpus linguistic methods in Sketch Engine: A hands-on workshop</em></a>, was well attended by faculty and graduate students alike and introduced motivations for and tools to carry out language teaching and research utilizing mega-corpora. The event was sponsored and co-sponsored by OSUCHiLL and the [Center for Latin American Studies](https://clas.osu.edu/) at Ohio State.
+</p>
+<figure style="margin: 0 0 25px 0;">
+  <img src="OSUCHiLL_comb2.jpg" style="width: 800px; height: auto; border-radius: 0;">
+</figure>
+<p>
+  In addition to their presentation, Kendra and Mark had the chance to spend time with their former advisor, [Dr. Scott Schwenter](https://sppo.osu.edu/people/schwenter.1). Kendra and Mark are excited to bring this workshop to additional venues, so look out for announcements at a conference near you!
+</p>
