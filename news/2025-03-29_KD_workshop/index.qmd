@@ -29,5 +29,6 @@ format: html
   <img src="OSUCHiLL_comb2.jpg" style="width: 800px; height: auto; border-radius: 0;">
 </figure>
 <p>
+
   In addition to their presentation, Kendra and Mark had the chance to spend time with their former advisor, [Dr. Scott Schwenter](https://sppo.osu.edu/people/schwenter.1). Kendra and Mark are excited to bring this workshop to additional venues, so look out for announcements at a conference near you!
 </p>
