@@ -1,0 +1,24 @@
+---
+title: "Let's get experimental!"
+description: "PhD student Meritxell Feliu Ribas gives mini-workshop on experimental methods in sociolinguistics at SlAnG"
+author:
+  - name: Kendra V. Dickinson
+date: 04-16-2025
+categories: [research]
+image: mfr_exp.jpg
+showImage: false
+draft: false 
+toc: false
+editor: 
+  mode: source
+format: html
+---
+
+<figure style="margin: 0 0 25px 0;">
+  <img src="mfr_exp.jpg" style="width: 800px; height: auto; border-radius: 0;">
+</figure>
+
+<p>
+  For our lab meeting last week, PhD student [Meritxell Feliu Ribas](https://www.mfeliuribas.com/) offered us a mini-workshop on experimental methods in sociolinguistics. In this discussion-based session, Txell led us in brainstorming strengths and drawbacks of both production-based versus experimental data collection methods, important considerations in experimental design, platforms for hosting experiments, and more. Drawing on her own experience and dissertation work, Txell gave us great insight into the *why* and *how* of carrying out this kind of work. Thank you, Txell!
+  
+  
