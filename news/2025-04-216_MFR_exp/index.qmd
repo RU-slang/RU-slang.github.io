@@ -4,7 +4,7 @@ description: "PhD student Meritxell Feliu Ribas gives mini-workshop on experimen
 author:
   - name: Kendra V. Dickinson
 date: 04-16-2025
-categories: [research]
+categories: [in the lab]
 image: mfr_exp.jpg
 showImage: false
 draft: false 
