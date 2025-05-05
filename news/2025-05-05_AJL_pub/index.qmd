@@ -27,6 +27,6 @@ format: html
   </span></strong></em> 
   
   <br>
-  Read the article <a href="https://www.degruyterbrill.com/document/">here!</a>
+  Read more [here.](https://www.degruyterbrill.com/document/doi/10.1515/shll-2025-2005/html?recommended=sidebar&srsltid=AfmBOoobz6-BbQnxTj3-M0cNOuWW9oS2wcaGlY44O59Dy84eLAgHVbmM)  
 </p>
 
