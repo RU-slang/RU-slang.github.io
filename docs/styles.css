@@ -29,6 +29,10 @@ a:hover {
   color: var(--primary-color) !important;
 }
 
+/* Change the tab text color */
+.nav-tabs .nav-link {
+     color: var(--primary-color);
+
 /* Apply bold style only to the active navbar link */
 .navbar .navbar-nav .nav-link.active {
   font-weight: bold !important;

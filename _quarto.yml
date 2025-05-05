@@ -22,7 +22,6 @@ website:
         text: "Contact"
       - href: news.qmd
         text: "News"
-
   search: false
 
 format:
