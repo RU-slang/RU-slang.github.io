@@ -20,8 +20,7 @@ website:
         text: "Projects"
       - href: contact.qmd
         text: "Contact"
-      - href: news.qmd
-        text: "News"
+
   search: false
 
 format:
