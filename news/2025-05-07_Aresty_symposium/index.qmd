@@ -1,6 +1,6 @@
 ---
 title: "Aresty Undergraduate Research Symposium"
-description: "Aresty RAs Erin Foley and Samantha Kozloq present their research"
+description: "Aresty RAs Erin Foley and Samantha Kozlow present their research"
 author:
   - name: Kendra V. Dickinson
 date: 05-07-2025
@@ -28,7 +28,7 @@ On April 25th, 2025, our dedicated Aresty Undergraduate Research Assistants Erin
 <img src="Sami2.jpg" alt="Samantha presenting" 
      style="float: right; width: 200px; height: auto; margin: 0 0 15px 20px;">
 <p>
-For her project, *The Use of Frequency of Subjects Pronouns in Spanish*, Samantha analyzed the use of subject personal pronouns in the speech of a women from El Salvador living in New Jersey, and investigated the roles of factors such as verb person and number and switch reference in the observed patterns. Her findings showed that the speaker more often produced subject pronouns when referring to singular referents, and also used more pronouns with a switch in reference. This findings align with previous work that has been done across varieties of Spanish with regard to constraints on the use of subject pronouns, but also a first look at how these patterns play out in Spanish as it is spoken in New Jersey.
+For her project, *The Use of Frequency of Subjects Pronouns in Spanish*, Samantha analyzed the use of subject personal pronouns in the speech of a women from El Salvador living in New Jersey, and investigated the roles of factors such as verb person and number and switch reference in the observed patterns. Her findings showed that the speaker more often produced subject pronouns when referring to singular referents, and also used more pronouns with a switch in reference. This findings align with previous work that has been done across varieties of Spanish with regard to constraints on the use of subject pronouns, but also offer a first look at how these patterns play out in Spanish as it is spoken in New Jersey.
 </p>
 
 <br>
@@ -37,7 +37,7 @@ For her project, *The Use of Frequency of Subjects Pronouns in Spanish*, Samanth
      style="float: left; width: 300px; height: auto; margin: 20px;">
 <p>
 
-For Erin's project, *Investigating /s/ Reduction in Argentine Spanish*, she collected over 1,000 instances of /s/ in the speak of an Argentine women living in New Jersey, determined in they represented instances of [s], [h], or deletion, and then analyzed the role of preceding and following vowels in this variation. Her investigation revealed that the speaker produced all three /s/ variations, though favored the reduced variants. Additionally, Erin found that the speaker more often reduced or deleted /s/ when the following sound was a vowel, a finding consistent with previous work that has been done across varieties of Spanish. As with Samantha's finding, this project represents a preliminary view of how cross-dialectal patterns may change or be maintained in the context of language and dialect contact in New Jersey.
+For Erin's project, *Investigating /s/ Reduction in Argentine Spanish*, she collected over 1,000 instances of /s/ in the speech of an Argentine women living in New Jersey, and determined if they represented instances of [s], [h], or deletion, and then analyzed the role of preceding and following phonemes in this variation. Her investigation revealed that the speaker produced all three /s/ variations, though favored the reduced variants. Additionally, Erin found that the speaker more often reduced or deleted /s/ when the following sound was a vowel, a finding consistent with previous work that has been done across varieties of Spanish. As with Samantha's finding, this project represents a preliminary view of how cross-dialectal patterns may change or be maintained in the context of language and dialect contact in New Jersey.
 
 Everyone in the lab enjoyed working with Erin and Samantha this year! We were luck to have you, and are proud of your work. Way to go!
 
