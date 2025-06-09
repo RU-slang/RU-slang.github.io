@@ -1,5 +1,5 @@
 ---
-title: "Felicitats, Dr. Gabriela Rodica Constantin-Dureci!"
+title: "Felicitări, Dr. Gabriela Rodica Constantin-Dureci!"
 description: "Our lab's first graduate officially received her PhD on May 14th, 2025."
 author:
   - name: Kendra V. Dickinson
