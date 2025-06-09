@@ -48,12 +48,13 @@ Gabriela successfully defended her doctoral dissertation, entitled *What makes a
   <img src="defense.png" style="width: 100%; max-width: 700px; height: auto; border-radius: 15px;">
 </div>
 
-Since mid-2024, Gabriela has been working at Drexel University’s Teaching and Learning Center as Assistant Director of Online and Digital Pedagogy. In this role, Gabriela has put her commitment to inclusive teaching, accessibility, and language justice into practice to make a difference in the learning experiences of students at Drexel University. We can't wait to see what she does next. 
+Since mid-2024, Gabriela has been working at Drexel University’s Teaching and Learning Center as Assistant Director of Online and Digital Pedagogy. In this role, Gabriela has put her commitment to inclusive teaching, accessibility, and language justice into practice to make a differen in the learning experiences of students at Drexel University. We can't wait to see what she does next. 
 
 <br>
-<div style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 20px 0;">
-  Congratulations, felicidades, felicitări, Gabriela!
-</div>
+<p style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 20px 0;">
+  Congratulations, felicitades, felicitări, Gabriela!
+</p>
+
 
 <div style="text-align: center; margin-bottom: 20px;">
   <img src="Gab_grad_silly.jpeg" style="width: 100%; max-width: 700px; height: auto; border-radius: 15px;">
