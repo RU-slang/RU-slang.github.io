@@ -1,0 +1,59 @@
+---
+title: "Felicitats, Dr. Gabriela Rodica Constantin-Dureci!"
+description: "Our lab's first graduate officially received her PhD on May 14th, 2025."
+author:
+  - name: Kendra V. Dickinson
+date: 06-07-2025
+categories: [graduate students, celebration]
+image: Gab_grad_nice.jpeg
+showImage: false
+draft: false 
+toc: false
+editor: 
+  mode: source
+format: html
+---
+<table style="width: 100%; border-collapse: collapse; border: none; margin-bottom: 30px;">
+  <tr>
+    <td style="width: 50%; vertical-align: top; padding-right: 20px;">
+      <p>On May 14th, 2025, former lab member Gabriela Rodica Constantin-Dureci officially graduated with her PhD. Gabriela is the first member of our lab to earn their doctoral degree at Rutgers, and we could not be prouder.</p>
+    </td>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img src="invite.png" style="width: 100%; max-width: 300px; height: auto; border-radius: 15px;">
+    </td>
+  </tr>
+
+  <!-- Spacer row -->
+  <tr><td colspan="2" style="height: 70px;"></td></tr>
+
+  <tr>
+    <td style="width: 50%; vertical-align: top; text-align: center;">
+      <img src="Gab_grad_nice.jpeg" style="width: 100%; max-width: 300px; height: auto; border-radius: 15px;">
+    </td>
+    <td style="width: 50%; vertical-align: top; padding-left: 20px;">
+      <p>Advisor Dr. Kendra Dickinson was there to hood Gabriela, in a ceremony for doctoral students meant to signify their distinguished status as scholars that can be <a href="https://www.princetonianamuseum.org/artifact/279cb811-8070-4e24-b623-b4ec61678b5b">traced back to medieval Europe</a>. Most importantly, family, friends, peers, and faculty were there to celebrate!</p>
+    </td>
+  </tr>
+</table>
+
+<br>
+<div style="overflow: auto; margin-bottom: 20px;">
+
+Gabriela successfully defended her doctoral dissertation, entitled *What makes a teacher? attitudes toward teachers’ language varieties in the Spanish language classroom*, in November 2024. In addition to advisor Kendra Dickinson, [Dr. Joseph Casillas](https://www.jvcasillas.com/about.html), [Dr. Tom Stephens](https://span-port.rutgers.edu/people/faculty/faculty-directory/164-stephens-thomas-m), and [Dr. Victor Fernández-Mallat](https://spanport.washington.edu/people/victor-fernandez-mallat) served on her committee. Read her dissertation [here](https://rucore.libraries.rutgers.edu/rutgers-lib/73388/).
+
+</div>
+<br>
+<!-- Centered image section -->
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="defense.png" style="width: 100%; max-width: 700px; height: auto; border-radius: 15px;">
+</div>
+
+Since mid-2024, Gabriela has been working at Drexel University’s Teaching and Learning Center as Assistant Director of Online and Digital Pedagogy. In this role, Gabriela has put her commitment to inclusive teaching, accessibility, and language justice into practice to make a different in the learning experiences of students at Drexel University. We can't wait to see what she does next. 
+
+<br>
+<div style="text-align: center; font-weight: bold; font-size: 1.5em; margin: 20px 0;">
+  Congratulations, felicidades, felicitări, Gabriela!
+</div>
+
+<div style="text-align: center; margin-bottom: 20px;">
+  <img src="Gab_grad_silly.jpeg" style="width: 100%; max-width: 700px; height: auto; border-radius: 15px;">
