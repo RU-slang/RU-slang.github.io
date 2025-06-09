@@ -39,7 +39,7 @@ format: html
 <br>
 <div style="overflow: auto; margin-bottom: 20px;">
 
-Gabriela successfully defended her doctoral dissertation, entitled *What makes a teacher? attitudes toward teachers’ language varieties in the Spanish language classroom*, in November 2024. In addition to advisor Kendra Dickinson, [Dr. Joseph Casillas](https://www.jvcasillas.com/about.html), [Dr. Tom Stephens](https://span-port.rutgers.edu/people/faculty/faculty-directory/164-stephens-thomas-m), and [Dr. Victor Fernández-Mallat](https://spanport.washington.edu/people/victor-fernandez-mallat) served on her committee. Read her dissertation [here](https://rucore.libraries.rutgers.edu/rutgers-lib/73388/).
+Gabriela successfully defended her doctoral dissertation, entitled *What makes a teacher? Attitudes toward teachers’ language varieties in the Spanish language classroom*, in November 2024. In addition to advisor Kendra Dickinson, [Dr. Joseph Casillas](https://www.jvcasillas.com/about.html), [Dr. Tom Stephens](https://span-port.rutgers.edu/people/faculty/faculty-directory/164-stephens-thomas-m), and [Dr. Victor Fernández-Mallat](https://spanport.washington.edu/people/victor-fernandez-mallat) served on her committee. Read her dissertation [here](https://rucore.libraries.rutgers.edu/rutgers-lib/73388/).
 
 </div>
 <br>
