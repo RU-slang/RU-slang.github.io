@@ -56,7 +56,7 @@ This project focuses on the Spanish spoken in New Jersey, in particular, in the 
 ### Publications and Presentations
 
 **Selected Publications** <br>
-Feliu-Ribas, M. (in preparation). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals.
+Feliu-Ribas, M. (in preparation). Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.
 
 Feliu-Ribas, M. (under review). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
 
@@ -64,13 +64,13 @@ Barba Blanco, Y. (in preparation) Cuir Voices: Style-Shifting and Identity Negot
 
 Barba Blanco, Y. (in preparation) Spanish in the Puerto Rican Diaspora.
 
-López Durand, E., and Dickinson, K.. (forthcoming). Inclusive Morphology in Spanish: Processing and Learnability. *Studies in Hispanic and Lusophone Linguistics*.
+López Durand, E., and Dickinson, K. (2025). Inclusive Morphology in Spanish: Processing and Learnability. *Studies in Hispanic and Lusophone Linguistics, 18*(2), pp. 391-424.
 
 Dickinson, K., Lamberti, L., and Schwenter, S. (forthcoming). Evaluating the form of third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *Journal of Portuguese Linguistics*.
 
-Jaume-Losa, A. (accepted, May 2025). “From Left to Right”: the Influence of Political Orientation on the Language Attitudes of the Population of Palma de Mallorca toward Catalan and Spanish. *Studies in Hispanic and Lusophone Linguistics*.
+Jaume-Losa, A. (2025). “From Left to Right”: the Influence of Political Orientation on the Language Attitudes of the Population of Palma de Mallorca toward Catalan and Spanish. *Studies in Hispanic and Lusophone Linguistics, 18*(1), pp. 131-166.
 
-Dickinson, Kendra V. (2024). Regularization and innovation: A usage-based approach to past participle variation in Brazilian Portuguese. *Languages, 9*(2), 52.
+Dickinson, K. (2024). Regularization and innovation: A usage-based approach to past participle variation in Brazilian Portuguese. *Languages, 9*(2), 52.
 
 Barba Blanco, Y. (2024). Procesos de acomodación lingüística dentro de la diáspora puertorriqueña en Nueva Jersey. *Revista Nebrija De Lingüística Aplicada a La Enseñanza De Lenguas, 18*(37), 68–94. [https://doi.org/10.26378/rnlael1837587](https://doi.org/10.26378/rnlael1837587).
 
@@ -101,5 +101,5 @@ Fuchs, M., Dickinson, K., and Schwenter, S. (May 2024). Predicative possession c
 Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: 
 Attitudes towards a framework for the spelling of Andalusian Spanish. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
 
-Dickinson, K., Schwenter, S., and McLean, C. (April 2024). Speaker Evaluations of Indirect Object (Non-)Doubling in Spanish: An Experimental Approach. *11th Internation
+Dickinson, K., Schwenter, S., and McLean, C. (April 2024). Speaker Evaluations of Indirect Object (Non-)Doubling in Spanish: An Experimental Approach. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
 :::

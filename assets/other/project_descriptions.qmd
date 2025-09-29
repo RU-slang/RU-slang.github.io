@@ -1,0 +1,26 @@
+
+# Project Descriptions
+
+In this qmd file you can find information regarding our ongoing and past projects. This is meant to be a backup document in case something from the main section 'Projects' gets deleted by mistaken. 
+
+### Current Projects
+**Spanish in Central New Jersey** <br> 
+This project focuses on the Spanish spoken in New Jersey, in particular, in the greater New Brunswick area, with the aim of documenting its linguistic features and investigating language variation and change in this area. The outcome of this project will be the creation of a corpus of the Spanish language as currently used in central New Jersey. 
+
+**Language Change and Variation** <br> 
+<i>Morphosyntax Variation in Spanish-English Bilinguals</i> <br> 
+      This project explores the variation of forms in the expression of perfective past time reference, and futurity among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, bilingualism, and heritage language acquisition, as well as educational programs.
+
+
+<i>Morphosyntactic Variation in Spanish and Portuguese Monolinguals.</i> <br> Several projects, in various stages of development, are dedicated to exploring morphosyntactic variation in Spanish and Brazilian Portuguese, relying on data from both production and perception. The projects rely on a usage-based variationist sociolinguistic approach, employing quantitative methods to examine how linguistic patterns emerge from the intersection of actual language use, social characteristics, and cognitive processes. Such projects include experimental investigation of predicative possessive prefers in Brazilian Portuguese and Argentinian Spanish, experimental investigation of constraints on anaphoric direct object expression in European and Brazilian Portuguese, experimental and corpus-based analysis of variable past participles in Spanish and Brazilian Portuguese, experimental and corpus-based analysis of third-person singular indirect objects in Spanish, among others. The findings of these projects contribute to theories of language variation and change, cognitive and usage-based grammar, and more.
+
+
+<br>
+**Language Attitudes and Ideologies** <br> 
+<i>Influence of Political Orientation on Language Attitudes</i> <br> This project examines the language attitudes of Palma’s population toward the two official languages of the Balearic Islands, Catalan and Spanish, as well as their daily use of both languages. The overarching goal is to identify the factors associated with these attitudes and usage patterns through both quantitative and qualitative analysis. By exploring these connections, we aim to uncover the interplay between language attitudes, language use, and language policy, providing insights to inform language and education policy.
+
+<i>Spanish in the Puerto Rican Diaspora</i> <br> This project explores the sociocultural and linguistic experiences of Puerto Ricans in New Jersey, focusing on how they linguistically accommodate —or choose not to— dominant social groups. Specifically, it examines how Puerto Ricans may adjust their use of lambdacism, /s/ aspiration, and post-tonic intervocalic /d/ elision in interactions with other Spanish speakers. Through a combination of quantitative (acoustic analysis) and qualitative (narrative interviews) methods, the study assesses the extent of accommodation, the strategies used, and the influence of factors, such as age and gender, on the realization of these linguistic features. Ultimately, the project seeks to shed light on how language use and identity negotiation intersect with social dynamics among Puerto Ricans in New Jersey.
+
+
+### Past Projects
+Add here any past projects.
