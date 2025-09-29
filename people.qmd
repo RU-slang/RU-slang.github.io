@@ -15,7 +15,7 @@ editor:
 <table style="width: 100%;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/kd_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;">
+      <img src="assets/photos/people/kd_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%;">
     </td>
     <td>
       <strong><a href="https://span-port.rutgers.edu/people/faculty/faculty-directory/1013-kendra-dickinson">Kendra V. Dickinson</a></strong><br>
@@ -32,7 +32,7 @@ editor:
 <table style="width: 100%;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/mfr_photo.png" style="width: 155px; height: 165px; border-radius: 50%;">
+      <img src="assets/photos/people/mfr_photo.png" style="width: 155px; height: 165px; border-radius: 50%;">
     </td>
     <td>
       <strong><a href="https://www.mfeliuribas.com">Meritxell Feliu-Ribas</a></strong><br>
@@ -49,7 +49,7 @@ editor:
 <table style="width: 100%;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/ajl_photo.png" style="width: 150px; height: 160px; border-radius: 50%;">
+      <img src="assets/photos/people/ajl_photo.png" style="width: 150px; height: 160px; border-radius: 50%;">
     </td>
     <td>
       <strong>Alejandro A. Jaume-Losa</strong><br>
@@ -66,7 +66,7 @@ editor:
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/ybb_photo.png" style="width: 150px; height: 160px; border-radius: 50%; display: block;">
+      <img src="assets/photos/people/ybb_photo.png" style="width: 150px; height: 160px; border-radius: 50%; display: block;">
     </td>
     <td>
       <strong>Yhosep Fernando Barba Blanco</strong><br>
@@ -80,16 +80,34 @@ editor:
 
 <br>
 
-<table style="width: 100%;">
+<table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/ef_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;">
+      <img src="assets/photos/people/ds_photo.png" style="width: 150px; height: 160px; border-radius: 50%; display: block;">
     </td>
     <td>
-      <strong>Erin Foley</strong><br>
-      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      <strong>Diana Sánchez</strong><br>
+      <span style="color: #83C5BE;"><i>PhD Student</i></span><br>
+      Bilingualism, Autism, Accessibility, Psycholinguistics<br>
       English, Spanish<br>
-      <a href="mailto:eaf155@scarletmail.rutgers.edu">eaf155@scarletmail.rutgers.edu</a>
+      <a href="mailto:ds1731@rutgers.edu">ds1731@rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="width: 180px; padding-right: 20px; vertical-align: top;">
+      <img src="assets/photos/people/lvbc_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%; display: block;">
+    </td>
+    <td>
+      <strong>Luz Valeria Bedoya Cerquera</strong><br>
+      <span style="color: #83C5BE;"><i>PhD Student</i></span><br>
+      Bilingualism, Pedagogy, Language Attitudes<br>
+      English, French, Portuguese, Spanish<br>
+      <a href="mailto:lb1181@scarletmail.rutgers.edu">lb1181@scarletmail.rutgers.edu</a>
     </td>
   </tr>
 </table>
@@ -99,7 +117,7 @@ editor:
 <table style="width: 100%;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/sk_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%;">
+      <img src="assets/photos/people/sk_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%;">
     </td>
     <td>
       <strong>Samantha Kozlow</strong><br>
@@ -112,10 +130,27 @@ editor:
 
 <br>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 180px; padding-right: 20px; vertical-align: top;">
+      <img src="assets/photos/people/jc_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;">
+    </td>
+    <td>
+      <strong>Josh Calix</strong><br>
+      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      English, Spanish<br>
+      <a href="mailto:jdc381@scarletmail.rutgers.edu">jdc381@scarletmail.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### Former Members
 
 * [Gabriella Constantin-Dureci, PhD](https://drexel.edu/teaching-and-learning/about/team-members/constantin-dureci-gabriela)
 
+* Erin Foley, Undergraduate Research Assistant
 <br> 
 
 ### Collaborators
@@ -126,6 +161,6 @@ editor:
 
 * [Ezequiel Durand-López](https://charleston.edu/spanish/faculty/durand-lopez-ezequiel.php), College of Charleston	
 
-* [Nicole Houser](https://nbdiversity.rutgers.edu/people/nicole-m-houser), Rutgers University	
+* [Nicole Houser](https://www.webster.ac.at), Webster University (Austria)
 
 * [Luana Lamberti](https://language.iastate.edu/directory/luana-lamberti/), Iowa State University	
