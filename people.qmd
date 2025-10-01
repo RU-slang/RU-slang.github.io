@@ -146,6 +146,22 @@ editor:
 
 <br>
 
+<table style="width: 100%;">
+  <tr>
+    <td style="width: 180px; padding-right: 20px; vertical-align: top;">
+      <img src="assets/photos/people/gl_photo.jpg" style="width: 150px; height: 160px; border-radius: 50%;">
+    </td>
+    <td>
+      <strong>Giovanna Licitra</strong><br>
+      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      English, Italian, Spanish<br>
+      <a href="mailto:gl540@scarletmail.rutgers.edu">gl540@scarletmail.rutgers.edu</a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ### Former Members
 
 * [Gabriella Constantin-Dureci, PhD](https://drexel.edu/teaching-and-learning/about/team-members/constantin-dureci-gabriela)
