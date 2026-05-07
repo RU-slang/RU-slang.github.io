@@ -1,14 +1,15 @@
 ---
 title: "Welcome to the Rutgers University <br>  Sociolinguistic Analysis Group!"
 toc: false
-page-layout: article
+page-layout: full
 about: 
   template: jolla
 editor: 
   mode: source
 ---
 
-<img src="assets/photos/lab_group2.jpg" style="width: 600px; height: auto; border-radius: 15px;" />
+<img src="assets/photos/lab_group2.jpg" 
+     style="width: 70%; height: auto; border-radius: 15px;" />
 
 <br>
 
