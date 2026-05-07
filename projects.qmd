@@ -61,7 +61,7 @@ This project focuses on the Spanish spoken in New Jersey, in particular, in the 
 
 Feliu-Ribas, M. (*accepted*). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
 
-Dickinson, K.V. & Barba Blanco, Y. (*under review*). *Voice, race, and place: Speech perception and geographic identification in Colombian Spanish varieties.*
+Dickinson, K.V. & Barba Blanco, Y. (*under review*). Voice, race, and place: Speech perception and geographic identification in Colombian Spanish varieties.
 
 López Durand, E., and Dickinson, K. (2025). Inclusive Morphology in Spanish: Processing and Learnability. *Studies in Hispanic and Lusophone Linguistics, 18*(2), pp. 391-424. [https://doi.org/10.1515/shll-2025-2013](https://doi.org/10.1515/shll-2025-2013)
 
@@ -85,15 +85,29 @@ Dickinson, K. (2023). What Does It Meme? English–Spanish Codeswitching and Enr
 
 :::: {.references-list}
 
+Dickinson, K.V. (April). High Frequency, Low Cost: How Usage Shapes the Processing of Inclusive Language in Spanish. *12th International Workshop on Spanish Sociolinguistics (WSS)*. Georgetown University, Washington, D.C.
+
+Barba Blanco, Y. (April 2026). Cuir Voices: Style-Shifting and Identity Negotiation Among Spanish Heritage Speakers. *12th International Workshop on Spanish Sociolinguistics (WSS)*. Georgetown University, Washington, D.C.
+
+Hoff, M. & Dickinson, K.V. (October 2025). Invited Workshop: Methods in Hispanic and Lusophone Corpus Linguistics with Sketch Engine. *Hispanic Linguistics Symposium* University of Arizona, Tucson, AZ.
+
+Dickinson, K.V. & Durand-López, E. (October 2025). Morphological processing of inclusive language in Spanish: A usage-based account. *Hispanic Linguistics Symposium* University of Arizona, Tucson, AZ.
+
+Schwenter, S., Dickinson, K.V., McLean, C. (October 2025). Experimental Testing of Indirect Object (Non-)Doubling in Spanish. *New Ways of Analyzing Variation (NWAV) 53*. Ann Arbor, MI.
+
+Feliu-Ribas, M. (October 2025). Futurity and Probability in Contact Spanish: Insights from Heritage Speakers. *New Ways of Analyzing Variation (NWAV) 53*. Ann Arbor, MI.
+
+Feliu-Ribas, M. (October 2025). Futurity and Probability in Contact Spanish: Insights from Heritage Speakers. *New Ways of Analyzing Variation (NWAV) 53*. Ann Arbor, MI.
+
 Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals. NYU Sociolinguistics Lab, NY.
 
 Barba Blanco, Y. (February, 2025). Cuir Voices: Style-Shifting and Identity Negotiation Among Spanish Heritage Speakers. *Research Colloquium*. Rutgers University, NJ.
 
-Feliu Ribas, M. (November 2024). *Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals.* *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+Feliu Ribas, M. (November 2024). *Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals.* *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, FL.
 
-Dickinson, K., Lamberti, L., and Scott, S. (November 2024). Evaluating variable third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+Dickinson, K., Lamberti, L., and Scott, S. (November 2024). Evaluating variable third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, FL.
 
-Dickinson, K. (November 2024). Sociocognitive representations of variable Spanish past participles. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+Dickinson, K. (November 2024). Sociocognitive representations of variable Spanish past participles. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, FL.
 
 Barba Blanco, Y. (November 2024). About the role of raciolinguistics in Spanish language teaching. *3rd Colloquium of Global Trends in Language Teaching: Meaningful Experiences in Language Teaching and Learning*. Universidad Nacional Abierta y a Distancia (UNAD) and Escuela de Ciencias de la Educación (ECEDU), Colombia.
 
@@ -103,9 +117,6 @@ Barba Blanco, Y. (October 2024). Assimilation Processes within the Puerto Rican 
 
 Fuchs, M., Dickinson, K., and Schwenter, S. (May 2024). Predicative possession choice in Argentinean Spanish: An experimental study. *54th Linguistic Symposium on Romance Languages (LSRL)*, Provo, UT.
 
-Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
-
-Dickinson, K., Schwenter, S., and McLean, C. (April 2024). Speaker Evaluations of Indirect Object (Non-)Doubling in Spanish: An Experimental Approach. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
 
 ::::
 
