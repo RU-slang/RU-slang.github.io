@@ -15,19 +15,19 @@ This project focuses on the Spanish spoken in New Jersey, in particular, in the 
 <table style="width: 90%; max-width: 100%; border-collapse: collapse; margin-left: 30px;">
   <tr>
     <td style="width: 25px; text-align: center; vertical-align: top;">
-      <span style="display: inline-block; background-color: #e29578; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">1</span>
+      <span style="display: inline-block; background-color: #593196; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">1</span>
     </td>
     <td style="padding-left: 15px; text-align: justify;">
-      <span style="color: #e29578; font-weight: bold;">Morphosyntax Variation in Spanish-English Bilinguals</span> <br> 
+      <span style="color: #593196; font-weight: bold;">Morphosyntax Variation in Spanish-English Bilinguals</span> <br> 
       This project explores the variation of forms in the expression of perfective past time reference, and futurity among early Spanish-English bilinguals in the United States. In addition, it compares the results from bilinguals to those of Spanish monolinguals in order to examine the potential role of bilingualism and language contact situations. Data are currently being collected using different sociolinguistic corpora and a variety of experimental tasks that target both production and receptive knowledge, and will be analyzed following Bayesian regression methods. The findings from this project will inform theories of grammaticalization, language change and variation, bilingualism, and heritage language acquisition, as well as educational programs.
     </td>
   </tr>
   <tr>
     <td style="width: 25px; text-align: center; vertical-align: top;">
-      <span style="display: inline-block; background-color: #e29578; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">2</span>
+      <span style="display: inline-block; background-color: #593196; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">2</span>
     </td>
     <td style="padding-left: 15px; text-align: justify;">
-      <span style="color: #e29578;font-weight: bold;">Morphosyntactic Variation in Spanish and Portuguese Monolinguals.</span> <br> Several projects, in various stages of development, are dedicated to exploring morphosyntactic variation in Spanish and Brazilian Portuguese, relying on data from both production and perception. The projects rely on a usage-based variationist sociolinguistic approach, employing quantitative methods to examine how linguistic patterns emerge from the intersection of actual language use, social characteristics, and cognitive processes. Such projects include experimental investigation of predicative possessive prefers in Brazilian Portuguese and Argentinian Spanish, experimental investigation of constraints on anaphoric direct object expression in European and Brazilian Portuguese, experimental and corpus-based analysis of variable past participles in Spanish and Brazilian Portuguese, experimental and corpus-based analysis of third-person singular indirect objects in Spanish, among others. The findings of these projects contribute to theories of language variation and change, cognitive and usage-based grammar, and more.
+      <span style="color: #593196;font-weight: bold;">Morphosyntactic Variation in Spanish and Portuguese Monolinguals.</span> <br> Several projects, in various stages of development, are dedicated to exploring morphosyntactic variation in Spanish and Brazilian Portuguese, relying on data from both production and perception. The projects rely on a usage-based variationist sociolinguistic approach, employing quantitative methods to examine how linguistic patterns emerge from the intersection of actual language use, social characteristics, and cognitive processes. Such projects include experimental investigation of predicative possessive prefers in Brazilian Portuguese and Argentinian Spanish, experimental investigation of constraints on anaphoric direct object expression in European and Brazilian Portuguese, experimental and corpus-based analysis of variable past participles in Spanish and Brazilian Portuguese, experimental and corpus-based analysis of third-person singular indirect objects in Spanish, among others. The findings of these projects contribute to theories of language variation and change, cognitive and usage-based grammar, and more.
     </td>
   </tr>
 </table>
@@ -37,36 +37,39 @@ This project focuses on the Spanish spoken in New Jersey, in particular, in the 
 <table style="width: 90%; max-width: 100%; border-collapse: collapse; margin-left: 30px;">
   <tr>
     <td style="width: 25px; text-align: center; vertical-align: top;">
-      <span style="display: inline-block; background-color: #e29578; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">1</span>
+      <span style="display: inline-block; background-color: #593196; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">1</span>
     </td>
     <td style="padding-left: 15px; text-align: justify;">
-      <span style="color: #e29578; font-weight: bold;">Influence of Political Orientation on Language Attitudes</span> <br> This project examines the language attitudes of Palma’s population toward the two official languages of the Balearic Islands, Catalan and Spanish, as well as their daily use of both languages. The overarching goal is to identify the factors associated with these attitudes and usage patterns through both quantitative and qualitative analysis. By exploring these connections, we aim to uncover the interplay between language attitudes, language use, and language policy, providing insights to inform language and education policy.
+      <span style="color: #593196; font-weight: bold;">Influence of Political Orientation on Language Attitudes</span> <br> This project examines the language attitudes of Palma’s population toward the two official languages of the Balearic Islands, Catalan and Spanish, as well as their daily use of both languages. The overarching goal is to identify the factors associated with these attitudes and usage patterns through both quantitative and qualitative analysis. By exploring these connections, we aim to uncover the interplay between language attitudes, language use, and language policy, providing insights to inform language and education policy.
     </td>
   </tr>
   <tr>
     <td style="width: 25px; text-align: center; vertical-align: top;">
-      <span style="display: inline-block; background-color: #e29578; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">2</span>
+      <span style="display: inline-block; background-color: #593196; color: white; border-radius: 50%; width: 25px; height: 25px; text-align: center; line-height: 25px; font-weight: bold;">2</span>
     </td>
     <td style="padding-left: 15px; text-align: justify;">
-      <span style="color: #e29578; font-weight: bold;">Spanish in the Puerto Rican Diaspora</span> <br> This project explores the sociocultural and linguistic experiences of Puerto Ricans in New Jersey, focusing on how they linguistically accommodate —or choose not to— dominant social groups. Specifically, it examines how Puerto Ricans may adjust their use of lambdacism, /s/ aspiration, and post-tonic intervocalic /d/ elision in interactions with other Spanish speakers. Through a combination of quantitative (acoustic analysis) and qualitative (narrative interviews) methods, the study assesses the extent of accommodation, the strategies used, and the influence of factors, such as age and gender, on the realization of these linguistic features. Ultimately, the project seeks to shed light on how language use and identity negotiation intersect with social dynamics among Puerto Ricans in New Jersey.
+      <span style="color: #593196; font-weight: bold;">Spanish in the Puerto Rican Diaspora</span> <br> This project explores the sociocultural and linguistic experiences of Puerto Ricans in New Jersey, focusing on how they linguistically accommodate —or choose not to— dominant social groups. Specifically, it examines how Puerto Ricans may adjust their use of lambdacism, /s/ aspiration, and post-tonic intervocalic /d/ elision in interactions with other Spanish speakers. Through a combination of quantitative (acoustic analysis) and qualitative (narrative interviews) methods, the study assesses the extent of accommodation, the strategies used, and the influence of factors, such as age and gender, on the realization of these linguistic features. Ultimately, the project seeks to shed light on how language use and identity negotiation intersect with social dynamics among Puerto Ricans in New Jersey.
     </td>
   </tr>
 </table>
 
 ### Publications and Presentations
 
-**Selected Publications** <br>
-Feliu-Ribas, M. (in preparation). Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.
+**Selected Publications**
+
+:::: {.references-list}
+
+Feliu-Ribas, M. (in preparation). *Variation in Perfective Past Time Reference: Insights from Spanish in Contact with English.*
 
 Feliu-Ribas, M. (under review). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish.
 
-Barba Blanco, Y. (in preparation) Cuir Voices: Style-Shifting and Identity Negotiation Among Spanish Heritage Speakers
+Barba Blanco, Y. (in preparation). *Cuir Voices: Style-Shifting and Identity Negotiation Among Spanish Heritage Speakers.*
 
-Barba Blanco, Y. (in preparation) Spanish in the Puerto Rican Diaspora.
+Barba Blanco, Y. (in preparation). *Spanish in the Puerto Rican Diaspora.*
 
 López Durand, E., and Dickinson, K. (2025). Inclusive Morphology in Spanish: Processing and Learnability. *Studies in Hispanic and Lusophone Linguistics, 18*(2), pp. 391-424.
 
-Dickinson, K., Lamberti, L., and Schwenter, S. (forthcoming). Evaluating the form of third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *Journal of Portuguese Linguistics*.
+Dickinson, K., Lamberti, L., and Schwenter, S. (forthcoming). Evaluating the form of third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *Journal of Portuguese Linguistics.*
 
 Jaume-Losa, A. (2025). “From Left to Right”: the Influence of Political Orientation on the Language Attitudes of the Population of Palma de Mallorca toward Catalan and Spanish. *Studies in Hispanic and Lusophone Linguistics, 18*(1), pp. 131-166.
 
@@ -76,15 +79,19 @@ Barba Blanco, Y. (2024). Procesos de acomodación lingüística dentro de la di�
 
 Dickinson, K. (2023). What Does It Meme? English–Spanish Codeswitching and Enregisterment in Virtual Social Space. *Languages, 8*(4), 231.
 
+::::
 
 <br>
 
-**Selected Presentations and Talks** <br>
+**Selected Presentations and Talks**
+
+:::: {.references-list}
+
 Feliu-Ribas, M. (April 2025). Time, Tense, and Variation: The Acquisition of the Past Perfective Forms by Early Spanish-English Bilinguals. NYU Sociolinguistics Lab, NY.
 
 Barba Blanco, Y. (February, 2025). Cuir Voices: Style-Shifting and Identity Negotiation Among Spanish Heritage Speakers. *Research Colloquium*. Rutgers University, NJ.
 
-Feliu Ribas, M. (November 2024). Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
+Feliu Ribas, M. (November 2024). *Bailé or he bailado? Variable Perfective Past Time Reference among Spanish-English Early Bilinguals.* *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
 
 Dickinson, K., Lamberti, L., and Scott, S. (November 2024). Evaluating variable third-person anaphoric direct objects in Portuguese: A cross-dialectal study. *New Ways of Analyzing Variation (NWAV) 52*. Miami Beach, MI.
 
@@ -98,8 +105,10 @@ Barba Blanco, Y. (October 2024). Assimilation Processes within the Puerto Rican 
 
 Fuchs, M., Dickinson, K., and Schwenter, S. (May 2024). Predicative possession choice in Argentinean Spanish: An experimental study. *54th Linguistic Symposium on Romance Languages (LSRL)*, Provo, UT.
 
-Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: 
-Attitudes towards a framework for the spelling of Andalusian Spanish. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
+Feliu Ribas, M. (April 2024). “Cateto tú… que no’ntiendê l’andalûh”: Attitudes towards a framework for the spelling of Andalusian Spanish. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
 
 Dickinson, K., Schwenter, S., and McLean, C. (April 2024). Speaker Evaluations of Indirect Object (Non-)Doubling in Spanish: An Experimental Approach. *11th International Workshop in Spanish Sociolinguistics*, Buffalo, NY.
+
+::::
+
 :::

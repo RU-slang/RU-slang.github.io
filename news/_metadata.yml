@@ -6,9 +6,9 @@
 freeze: auto
 
 # enable banner style title blocks ----
-title-block-banner: "#edf6f9"
-title-block-banner-color: "#006d77"
+title-block-banner: "#f5f5f5"
+title-block-banner-color: "#593196"
 
 # set page layout
-page-layout: article
+page-layout: full
 

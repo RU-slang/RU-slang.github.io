@@ -6,7 +6,7 @@ editor:
   mode: source
 ---
 
-[SocioLinguistic Analysis Group]{style="color: #83c5be;"}
+[**SocioLinguistic ANalysis Group**]{style="color: #593196;"}
 
 
 
@@ -19,7 +19,7 @@ editor:
     </td>
     <td>
       <strong><a href="https://span-port.rutgers.edu/people/faculty/faculty-directory/1013-kendra-dickinson">Kendra V. Dickinson</a></strong><br>
-      <span style="color: #83C5BE"><i>Principal Investigator</i></span><br>
+      <span style="color: #009cdc"><i>Principal Investigator</i></span><br>
       Sociolinguistics, Language Variation and Change, Sociolinguistic Perception<br>
       Brazilian Portuguese, English, Spanish<br>
       <a href="mailto:kendra.dickinson@rutgers.edu">kendra.dickinson@rutgers.edu</a>
@@ -36,7 +36,7 @@ editor:
     </td>
     <td>
       <strong><a href="https://www.mfeliuribas.com">Meritxell Feliu-Ribas</a></strong><br>
-      <span style="color: #83C5BE"><i>PhD Student, Lab Manager</i></span><br>
+      <span style="color: #009cdc"><i>PhD Student, Lab Manager</i></span><br>
       Language Variation and Change, Bilingualism, Morphosyntax, Bayesian Data Analysis<br>
       Catalan, English, German, Russian, Spanish<br>
       <a href="mailto:mfeliuribas@spanport.rutgers.edu">mfeliuribas@spanport.rutgers.edu</a>
@@ -53,7 +53,7 @@ editor:
     </td>
     <td>
       <strong>Alejandro A. Jaume-Losa</strong><br>
-      <span style="color: #83C5BE"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc"><i>PhD Student</i></span><br>
       Language Attitudes, Language Uses, Language Policy<br>
       Catalan, English, Spanish<br>
       <a href="mailto:ajaumelosa@spanport.rutgers.edu">ajaumelosa@spanport.rutgers.edu</a>
@@ -70,7 +70,7 @@ editor:
     </td>
     <td>
       <strong>Yhosep Fernando Barba Blanco</strong><br>
-      <span style="color: #83C5BE;"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc;"><i>PhD Student</i></span><br>
       Queer Linguistics, Raciolinguistics, Language Attitudes, Linguistic Accommodation, (Critical) Discourse Analysis<br>
       English, Spanish<br>
       <a href="mailto:y.barba@rutgers.edu">y.barba@rutgers.edu</a>
@@ -87,7 +87,7 @@ editor:
     </td>
     <td>
       <strong>Diana Sánchez</strong><br>
-      <span style="color: #83C5BE;"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc;"><i>PhD Student</i></span><br>
       Bilingualism, Autism, Accessibility, Psycholinguistics<br>
       English, Spanish<br>
       <a href="mailto:ds1731@rutgers.edu">ds1731@rutgers.edu</a>
@@ -104,7 +104,7 @@ editor:
     </td>
     <td>
       <strong>Luz Valeria Bedoya Cerquera</strong><br>
-      <span style="color: #83C5BE;"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc;"><i>PhD Student</i></span><br>
       Bilingualism, Pedagogy, Language Attitudes<br>
       English, French, Portuguese, Spanish<br>
       <a href="mailto:lb1181@scarletmail.rutgers.edu">lb1181@scarletmail.rutgers.edu</a>
@@ -121,7 +121,7 @@ editor:
     </td>
     <td>
       <strong>Samantha Kozlow</strong><br>
-      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      <span style="color: #009cdc"><i>Undergraduate Research Assistant</i></span><br>
       English, Spanish<br>
       <a href="mailto:sek167@scarletmail.rutgers.edu">sek167@scarletmail.rutgers.edu</a>
     </td>
@@ -136,8 +136,8 @@ editor:
       <img src="assets/photos/people/jc_photo.jpeg" style="width: 150px; height: 160px; border-radius: 50%;">
     </td>
     <td>
-      <strong>Josh Calix</strong><br>
-      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      <strong>Eden Calix</strong><br>
+      <span style="color: #009cdc"><i>Undergraduate Research Assistant</i></span><br>
       English, Spanish<br>
       <a href="mailto:jdc381@scarletmail.rutgers.edu">jdc381@scarletmail.rutgers.edu</a>
     </td>
@@ -153,7 +153,7 @@ editor:
     </td>
     <td>
       <strong>Giovanna Licitra</strong><br>
-      <span style="color: #83C5BE"><i>Undergraduate Research Assistant</i></span><br>
+      <span style="color: #009cdc"><i>Undergraduate Research Assistant</i></span><br>
       English, Italian, Spanish<br>
       <a href="mailto:gl540@scarletmail.rutgers.edu">gl540@scarletmail.rutgers.edu</a>
     </td>

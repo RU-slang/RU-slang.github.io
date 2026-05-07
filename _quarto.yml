@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: " "
+  title: "SocioLinguistic ANalysis Group"
   navbar:
     left:
       - href: index.qmd
@@ -26,7 +26,9 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: 
+       - journal
+       - theme.scss
     css: styles.css
     toc: true
 
