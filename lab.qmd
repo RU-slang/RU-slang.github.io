@@ -5,7 +5,7 @@ editor:
   mode: source
 ---
 
-[**SocioLinguistic ANalysis Group**]{style="color: #593196;"}
+[**Sociolinguistic Analysis Group**]{style="color: #593196;"}
 
 ### Research
 

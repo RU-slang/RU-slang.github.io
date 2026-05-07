@@ -5,7 +5,7 @@ editor:
   mode: source
 ---
 
-[**SocioLinguistic ANalysis Group**]{style="color: #593196;"}
+[**Sociolinguistic Analysis Group**]{style="color: #593196;"}
 
 *Are you interested in working in the lab and studying language acquisition, language variation, and/or language change with us?* <br>
 Reach out to Professor Dickinson at [kendra.dickinson@rutgers.edu](mailto:kendra.dickinson@rutgers.edu) or to the SlAnG Manager, Meritxell Feliu-Ribas, at [mfeliuribas@spanport.rutgers.edu](mailto:mfeliuribas@spanport.rutgers.edu).

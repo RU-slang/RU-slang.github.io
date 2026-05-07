@@ -2,6 +2,15 @@
 title: "Welcome to the Rutgers University <br>  Sociolinguistic Analysis Group!"
 toc: false
 page-layout: full
+
+listing:
+  - id: news
+    contents: "news/*/index.qmd"
+    type: grid
+    grid-columns: 4
+    sort: "date desc"
+    max-items: 4
+    fields: [image, title, date]
 about: 
   template: jolla
 editor: 
@@ -38,3 +47,5 @@ editor:
     Build a vibrant community of scholars and students interested in the intersections of language and society at Rutgers University and beyond.
   </li>
 </ul>
+
+## Recent Updates
