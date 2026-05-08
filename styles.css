@@ -241,3 +241,31 @@ body.fullcontent .page-columns {
 .navbar .nav-link {
   font-size: 1.25rem;
 }
+
+/* ------------------------------
+   Mobile image handling
+--------------------------------*/
+
+@media (max-width: 768px) {
+  img[style*="float"] {
+    float: none !important;
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    height: auto;
+    margin: 1rem auto !important;
+  }
+
+  figure[style*="float"] {
+    float: none !important;
+    display: block;
+    width: 100% !important;
+    max-width: 100%;
+    margin: 1rem auto !important;
+  }
+
+  figure img {
+    width: 100% !important;
+    height: auto;
+  }
+}
