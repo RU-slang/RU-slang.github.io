@@ -17,7 +17,7 @@ format: html
 <img src="ybb_photo1.jpg" alt="Yhosep Barba Blanco" style="float: right; width: 400px; height: auto; margin: 0 0 15px 20px;"/>
 <p>
 
-We are delighted to announce that third-year graduate student Yhosep Barba Blanco has been awarded the prestigious [Chancellor's Leadership Award](https://grad.rutgers.edu/funding/fellowships-grants) from the School of Graduate Studies.
+We are delighted to announce that third-year graduate student Yhosep Barba Blanco has been awarded the prestigious [Chancellor's Leadership Award](https://grad.rutgers.edu/funding/fellowships-grants).
 
 
 <p>

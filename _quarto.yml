@@ -5,7 +5,7 @@ project:
     - "*.qmd"
 
 website:
-  title: "SocioLinguistic ANalysis Group"
+  title: ""
   navbar:
     left:
       - href: index.qmd

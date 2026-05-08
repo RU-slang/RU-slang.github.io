@@ -4,7 +4,6 @@ toc: false
 editor: 
   mode: source
 ---
-[**Sociolinguistic Analysis Group**]{style="color: #593196;"}
 
 ::: panel-tabset
 

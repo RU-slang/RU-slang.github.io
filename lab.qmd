@@ -5,8 +5,6 @@ editor:
   mode: source
 ---
 
-[**Sociolinguistic Analysis Group**]{style="color: #593196;"}
-
 ### Research
 
 SlAnG conducts research on sociolinguistics, language variation, and language change in both monolingual and multilingual populations. We focus on monolingual and bilingual language acquisition and use, using variationist methods, as well as language attitudes and ideologies among multilingual speakers. 

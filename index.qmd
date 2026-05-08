@@ -1,5 +1,5 @@
 ---
-title: "Welcome to the Rutgers University <br>  Sociolinguistic Analysis Group!"
+title: "Welcome to the Rutgers University Sociolinguistic Analysis Group!"
 toc: false
 page-layout: full
 
@@ -22,30 +22,64 @@ editor:
 
 <br>
 
-<span style="color: #17141f; font-weight: bold;"> What is our mission?</span>
-<p style="text-align:justify;">[Sociolinguistics](https://www.pbs.org/video/sociolinguistics-lusa55/) is a field that investigates the relationship between language and society. At the SlAnG, we are dedicated to advancing understanding of language variation and change as it intersects with our social world. Our work utilizes a range of quantitative, qualitative, experimental, and production-based methods to uncover the hidden patterns of how language is used, acquired, and perceived in everyday life.</p>
+<div style="display: flex; gap: 40px; align-items: flex-start; margin-top: 30px; flex-wrap: wrap;">
 
-<br>
+  <!-- Mission Column -->
+  <div style="flex: 1; min-width: 300px; background-color: #f8f8f8; padding: 25px; border-radius: 18px;">
+  <h2 style="color: #593196; margin-top: 0;">Who are we?</h2>
+  <p style="text-align: left;">
+  We are a group of graduate and undergraduate students, lead by Principal Investigator [Dr. Kendra V. Dickinson](kvdickinson.com), Assistant Professor in the Department of Spanish and Portuguese at Rutgers University. To learn more about current and former members, visit [People](people.qmd).
+   </p>
+   
+   <br>
+    
+  <h2 style="color: #593196; margin-top: 0;">What is our mission?</h2>
 
-<span style="color: #17141f; font-weight: bold; display: block; text-align: center;">What are our goals?</span>
+  <p style="text-align: left;">
+    <a href="https://www.pbs.org/video/sociolinguistics-lusa55/" target="_blank">
+      Sociolinguistics
+    </a> 
+    is a field that investigates the relationship between language and society. 
+    At the SlAnG, we are dedicated to advancing understanding of language variation 
+    and change as it intersects with our social world. Our work utilizes a range 
+    of quantitative, qualitative, experimental, and production-based methods to 
+    uncover the hidden patterns of how language is used, acquired, and perceived 
+    in everyday life.
+  </p>
 
+  </div>
 
-<ul class="numbered-list">
-  <li data-number="1">
-    Conduct collaborative research investigating the linguistic, social, and cognitive underpinnings of language variation and change.
-  </li>
-  <li data-number="2">
-    Create a corpus of Spanish as it is spoken in central New Jersey.
-  </li>
-  <li data-number="3">
-    Raise awareness about language diversity and challenge linguistic discrimination through education and outreach.
-  </li>
-  <li data-number="4">
-    Support undergraduate and graduate students through mentorship in ethical, data-driven linguistic research.
-  </li>
-  <li data-number="5">
-    Build a vibrant community of scholars and students interested in the intersections of language and society at Rutgers University and beyond.
-  </li>
-</ul>
+  <!-- Goals Column -->
+  <div style="flex: 1; min-width: 300px; background-color: #f8f8f8; padding: 25px; border-radius: 18px;">
+
+  <h2 style="color: #593196; margin-top: 0;">What are our goals?</h2>
+
+  <ul class="numbered-list">
+    <li data-number="1">
+      Conduct collaborative research investigating the linguistic, social, and cognitive underpinnings of language variation and change.
+    </li>
+
+    <li data-number="2">
+      Create a corpus of Spanish as it is spoken in central New Jersey.
+    </li>
+
+    <li data-number="3">
+      Raise awareness about language diversity and challenge linguistic discrimination through education and outreach.
+    </li>
+
+    <li data-number="4">
+      Support undergraduate and graduate students through mentorship in ethical, data-driven linguistic research.
+    </li>
+
+    <li data-number="5">
+      Build a vibrant community of scholars and students interested in the intersections of language and society at Rutgers University and beyond.
+    </li>
+  </ul>
+
+  </div>
+
+</div>
+
+   <br>
 
 ## Recent Updates

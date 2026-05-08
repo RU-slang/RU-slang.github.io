@@ -1,9 +1,9 @@
 ---
-title: "Mertixell Feliu Ribas awarded Louis Bevier Dissertation Completion Fellowship"
-description: ""
+title: "Meritxell Feliu Ribas awarded Louis Bevier Dissertation Completion Fellowship"
+description: " "
 author:
   - name: Kendra V. Dickinson
-date: 05-03-2026
+date: 2026-05-03
 categories: [graduate students, fellowships, awards, research]
 image: mfr_photo.jpg
 showImage: false
@@ -16,7 +16,7 @@ format: html
 
 <p>
 
-We are delighted to announce that Mertixell Feliu Ribas, Lab Manager and fourth year graduate student, has been awarded the competitive [Louis Bevier Dissertation Completion Fellowship](https://grad.rutgers.edu/funding/fellowships-grants) from the School of Graduate Studies.
+We are delighted to announce that Meritxell Feliu Ribas, Lab Manager and fourth year graduate student, has been awarded the competitive [Louis Bevier Dissertation Completion Fellowship](https://grad.rutgers.edu/funding/fellowships-grants) from the School of Graduate Studies.
 
 
 <img src="mfr_photo.jpg" alt="Meritxell Feliu Ribas" style="float: right; width: 400px; height: auto; margin: 0 0 15px 20px;"/>

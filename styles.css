@@ -20,6 +20,13 @@
 }
 
 /* ------------------------------
+ Title color
+--------------------------------*/
+
+#title-block-header .title {
+  color: #593196;
+}
+/* ------------------------------
    Body & typography
 --------------------------------*/
 
@@ -224,4 +231,13 @@ body.fullcontent .page-columns {
 .references-list p {
   margin-bottom: 1em;
   text-align: left;
+}
+
+/*Space out navigation bar*/
+.navbar-nav {
+  gap: 1.75rem;
+}
+
+.navbar .nav-link {
+  font-size: 1.25rem;
 }

@@ -11,9 +11,6 @@ listing:
 ---
 
 
-
-[**Sociolinguistic Analysis Group**]{style="color: #593196;"}
-
 Do you want to know what is going on in SlAnG? Check the posts below!
 
 <!--- Check this website for a detailed step-by-step guide on how to set up a blog https://samanthacsik.github.io/posts/2022-10-24-quarto-blogs/ --->
