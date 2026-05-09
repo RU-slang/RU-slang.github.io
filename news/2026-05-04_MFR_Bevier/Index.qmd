@@ -3,7 +3,7 @@ title: "Meritxell Feliu Ribas awarded Louis Bevier Dissertation Completion Fello
 description: " "
 author:
   - name: Kendra V. Dickinson
-date: 2026-05-03
+date: 2026-05-04
 categories: [graduate students, fellowships, awards, research]
 image: mfr_photo.jpg
 showImage: false
