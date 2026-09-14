@@ -34,28 +34,10 @@ editor:
     </td>
     <td>
       <strong><a href="https://www.mfeliuribas.com">Meritxell Feliu-Ribas</a></strong><br>
-      <span style="color: #009cdc"><i>PhD Student, Lab Manager</i></span><br>
+      <span style="color: #009cdc"><i>Doctoral Candidate, Lab Manager</i></span><br>
       Language Variation and Change, Bilingualism, Morphosyntax, Bayesian Data Analysis<br>
       Catalan, English, German, Russian, Spanish<br>
       <a href="mailto:mfeliuribas@spanport.rutgers.edu">mfeliuribas@spanport.rutgers.edu</a>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table style="width: 100%;">
-  <tr>
-    <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/people/ajl_photo.png" 
-           style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; display: block;">
-    </td>
-    <td>
-      <strong>Alejandro A. Jaume-Losa</strong><br>
-      <span style="color: #009cdc"><i>PhD Student</i></span><br>
-      Language Attitudes, Language Uses, Language Policy<br>
-      Catalan, English, Spanish<br>
-      <a href="mailto:ajaumelosa@rutgers.edu">ajaumelosa@rutgers.edu</a>
     </td>
   </tr>
 </table>
@@ -70,7 +52,7 @@ editor:
     </td>
     <td>
       <strong>Yhosep Fernando Barba Blanco</strong><br>
-      <span style="color: #009cdc;"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc;"><i>Doctoral Candidate</i></span><br>
       Queer Linguistics, Raciolinguistics, Language Attitudes, Linguistic Accommodation, (Critical) Discourse Analysis<br>
       English, Spanish<br>
       <a href="mailto:y.barba@rutgers.edu">y.barba@rutgers.edu</a>
@@ -88,7 +70,7 @@ editor:
     </td>
     <td>
       <strong>Diana Sánchez</strong><br>
-      <span style="color: #009cdc;"><i>PhD Student</i></span><br>
+      <span style="color: #009cdc;"><i>Doctoral Candidate</i></span><br>
       Bilingualism, Autism, Accessibility, Psycholinguistics<br>
       English, Spanish<br>
       <a href="mailto:ds1731@rutgers.edu">ds1731@rutgers.edu</a>
@@ -119,14 +101,15 @@ editor:
 <table style="width: 100%;">
   <tr>
     <td style="width: 180px; padding-right: 20px; vertical-align: top;">
-      <img src="assets/photos/people/jc_photo.jpeg" 
+      <img src="assets/photos/people/mkd_photo.png" 
            style="width: 150px; height: 150px; border-radius: 50%; object-fit: cover; object-position: center top; display: block;">
     </td>
     <td>
-      <strong>Eden Calix</strong><br>
-      <span style="color: #009cdc"><i>Undergraduate Research Assistant</i></span><br>
-      English, Spanish<br>
-      <a href="mailto:jdc381@scarletmail.rutgers.edu">jdc381@scarletmail.rutgers.edu</a>
+      <strong>Marius Kahakeu Deffo</strong><br>
+      <span style="color: #009cdc;"><i>Doctoral Candidate</i></span><br>
+      Francophone Literature, Sociolinguistics, Language Attitudes, Language Pedagogy<br>
+      English, French<br>
+      <a href="mailto:km1561@scarletmail.rutgers.edu">km1561@scarletmail.rutgers.edu</a>
     </td>
   </tr>
 </table>
@@ -136,10 +119,11 @@ editor:
 ### Former Members
 
 * [Gabriella Constantin-Dureci, PhD](https://drexel.edu/teaching-and-learning/about/team-members/constantin-dureci-gabriela)
-
+* Alejandro A. Jaume-Losa, PhD
 * Erin Foley, Undergraduate Research Assistant
 * Samantha Kozlow, Undergraduate Research Assistant
 * Giovanna Licitra, Undergraduate Research Assistant
+* Eden Calix, Undergraduate Research Assistant
 
 <br> 
 
